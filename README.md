@@ -5,7 +5,9 @@
 **A from-scratch Raft consensus implementation with a live, breakable visualization, written in Go.**
 *Elections you can actually watch happen.*
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHpldWI0MWF2ejA4YXB6N216eTQwcjk4aG9tNmF4MDh1OGMxY2I5dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l1J9PWiJe4pNsyQXm/giphy.gif" width="2000"/>
+<div align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3c2U4d2MxOHA5bzE5YXZrNjBpanhzZW42anIyM3Z2azZlbjkwbWlrYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CufLv1T7gIPC/giphy.gif" alt="lightning" width="500"/>
+</div>
 
 <br/><br/>
 
