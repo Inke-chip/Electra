@@ -33,7 +33,7 @@
 ## 🇬🇧 English
 
 <div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTliY2lpZHV5OXc0MmtvMWMxeDM0bWFnYmRzdXl0cWJkd2xsbzJnZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YoSRLcSdmdV29YPsF2/giphy.gif" alt="Cute cat" width="220"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTliY2lpZHV5OXc0MmtvMWMxeDM0bWFnYmRzdXl0cWJkd2xsbzJnZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YoSRLcSdmdV29YPsF2/giphy.gif" alt="Cute cat" width="1500"/>
 </div>
 
 ### 📖 Overview
