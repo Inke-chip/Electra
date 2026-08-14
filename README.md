@@ -5,7 +5,7 @@
 **A from-scratch Raft consensus implementation with a live, breakable visualization, written in Go.**
 *Elections you can actually watch happen.*
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTRjd3N1Nm0yMHQ4aDBrMDE4aXVsdmFtMWJhZ3p3dmhtMGMzbGNqaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1URktmTTAIflh6VLUL/giphy.gif" alt="Adorable white rabbit" width="320"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHpldWI0MWF2ejA4YXB6N216eTQwcjk4aG9tNmF4MDh1OGMxY2I5dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l1J9PWiJe4pNsyQXm/giphy.gif" alt="Adorable white rabbit" width="2000"/>
 
 <br/><br/>
 
@@ -133,7 +133,7 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for details.
 ## 🇷🇺 Русский
 
 <div align="center">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTRjd3N1Nm0yMHQ4aDBrMDE4aXVsdmFtMWJhZ3p3dmhtMGMzbGNqaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Xb6J4XCrn1G08vnyvh/giphy.gif" alt="Прыгающий кролик" width="220"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTRjd3N1Nm0yMHQ4aDBrMDE4aXVsdmFtMWJhZ3p3dmhtMGMzbGNqaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Xb6J4XCrn1G08vnyvh/giphy.gif" alt="Прыгающий кролик" width="2000"/>
 </div>
 
 ### 📖 Обзор
@@ -235,7 +235,7 @@ Issues и Pull Request'ы приветствуются — особенно ре
 ## 🇪🇸 Español
 
 <div align="center">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTRjd3N1Nm0yMHQ4aDBrMDE4aXVsdmFtMWJhZ3p3dmhtMGMzbGNqaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/yeLsunxmHkDuLgf3eU/200.gif" alt="Conejo blanco tierno" width="220"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTRjd3N1Nm0yMHQ4aDBrMDE4aXVsdmFtMWJhZ3p3dmhtMGMzbGNqaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/yeLsunxmHkDuLgf3eU/200.gif" alt="Conejo blanco tierno" width="2000"/>
 </div>
 
 ### 📖 Descripción general
