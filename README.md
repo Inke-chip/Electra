@@ -6,7 +6,7 @@
 *Elections you can actually watch happen.*
 
 <div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3c2U4d2MxOHA5bzE5YXZrNjBpanhzZW42anIyM3Z2azZlbjkwbWlrYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CufLv1T7gIPC/giphy.gif" alt="lightning" width="500"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3c2U4d2MxOHA5bzE5YXZrNjBpanhzZW42anIyM3Z2azZlbjkwbWlrYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CufLv1T7gIPC/giphy.gif" alt="lightning" width="2000"/>
 </div>
 
 <br/><br/>
