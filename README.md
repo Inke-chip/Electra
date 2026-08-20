@@ -127,7 +127,7 @@ Issues and PRs are welcome — especially real-network transport implementations
 
 Distributed under the MIT License. See [`LICENSE`](LICENSE) for details.
 
-<div align="right"><a href="#electra-">↑ back to top</a></div>
+<div align="right"><a href="#Electra-">↑ back to top</a></div>
 
 ---
 
@@ -182,8 +182,8 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for details.
 ### 🚀 Быстрый запуск
 
 ```bash
-git clone https://github.com/Inke-chip/electra.git
-cd electra
+git clone https://github.com/Inke-chip/Electra.git
+cd Electra
 go mod tidy
 
 # запустить симулированный кластер из 5 нод с сервером визуализации
@@ -229,7 +229,7 @@ Issues и Pull Request'ы приветствуются — особенно ре
 
 Проект распространяется под лицензией MIT. Подробности в файле [`LICENSE`](LICENSE).
 
-<div align="right"><a href="#electra-">↑ наверх</a></div>
+<div align="right"><a href="#Electra-">↑ наверх</a></div>
 
 ---
 
@@ -284,8 +284,8 @@ No es un wrapper sobre `hashicorp/raft`. Cada parte — election timeout, manejo
 ### 🚀 Inicio rápido
 
 ```bash
-git clone https://github.com/Inke-chip/electra.git
-cd electra
+git clone https://github.com/Inke-chip/Electra.git
+cd Electra
 go mod tidy
 
 # levantar un clúster simulado de 5 nodos con el servidor de visualización
@@ -331,7 +331,7 @@ Los issues y pull requests son bienvenidos — especialmente implementaciones de
 
 Distribuido bajo la licencia MIT. Ver [`LICENSE`](LICENSE) para más detalles.
 
-<div align="right"><a href="#electra-">↑ arriba</a></div>
+<div align="right"><a href="#Electra-">↑ arriba</a></div>
 
 ---
 
